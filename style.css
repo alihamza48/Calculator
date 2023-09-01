@@ -92,3 +92,9 @@ button:hover {
 button.C:hover {
   background: linear-gradient(45deg, rgb(168, 71, 6), gray);
 }
+button:active {
+  background-color: black;
+}
+button.C:active {
+  background-color: rgb(255, 102, 0);
+}
